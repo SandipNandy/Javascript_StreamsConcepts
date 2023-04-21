@@ -1,5 +1,6 @@
 //In 'var' variable declarition you are allowed to redeclaired one or more that one variables with same name
 // But in 'let' it is nt allowed
+
 /*
 *******************
 let marks=Array(6);
