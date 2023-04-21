@@ -1,2 +1,2 @@
 # Javascript_StreamsConcepts
-Here some stream concepts are demonstrated
+Here some stream concepts are demonstrated.
