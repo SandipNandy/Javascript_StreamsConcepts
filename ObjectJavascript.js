@@ -7,6 +7,7 @@ let person={
        console.log(A+B);
        console.log(this.FirstName+this.LastName);
     }
+    
 }
 console.log(person.InbuildFunction(5,6));
 
