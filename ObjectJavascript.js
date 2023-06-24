@@ -9,6 +9,8 @@ let person={
     }
     
 }
+
+
 console.log(person.InbuildFunction(5,6));
 
 person.LastName='Nandy'
