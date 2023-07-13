@@ -1,6 +1,5 @@
 let person={
-    
-    FirstName:'Sandip',
+     FirstName:'Sandip',
     LastName:'Nandi',
     Age: 26,
     InbuildFunction: function(A,B){
