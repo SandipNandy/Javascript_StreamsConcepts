@@ -20,6 +20,7 @@ var mark=[2,3,5,7]; //here it is allowed to give same name with 'var' variable.
 *******************
 */
 
+
 var marks=[20,30,40,45,60,70,80,95];
 
 //slice function we can use to make and range or sub array of main array, we need to give
