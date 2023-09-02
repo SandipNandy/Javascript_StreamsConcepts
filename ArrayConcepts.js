@@ -50,6 +50,7 @@ marks.push(65);
 console.log(marks);
 
 console.log(marks.length);
+
 marks.pop();// delect the element of the array from the last
 console.log(marks);
 marks.unshift(98);//it will add the elements of the array in the first
