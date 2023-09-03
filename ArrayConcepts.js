@@ -7,7 +7,6 @@ var marks=new Array(20,40,35,12,37,100);//here it will through and error as we a
 with 'let' keyword but again in with 'var' we are declaring same 'marks' variable which 'let' will not accept
 so this will through compile time error
 var mark=[];// here it is allowed to give same name with 'var' variable.
-
 var mark=[2,3,5,7]; //here it is allowed to give same name with 'var' variable.
 
 
