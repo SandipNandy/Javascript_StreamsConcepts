@@ -1,11 +1,8 @@
 //In 'var' variable declarition you are allowed to redeclaired one or more that one variables with same name
 // But in 'let' it is nt allowed
-
-
 /*
 *******************
 let marks=Array(6);
-
 var marks=new Array(20,40,35,12,37,100);//here it will through and error as we already delaired 'marks'
 
 with 'let' keyword but again in with 'var' we are declaring same 'marks' variable which 'let' will not accept
