@@ -20,7 +20,6 @@ var marks=[20,30,40,45,60,70,80,95];
 //need to give 4, ((the element's position upto which you want to print -->6)+1) => 7
 var subMarks=marks.slice(4,7);
 console.log(subMarks);
-
 console.log(marks[6]);
 
 marks[0]=85;
