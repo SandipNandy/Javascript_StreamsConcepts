@@ -21,6 +21,7 @@
     }
     //console.log('sheetposition',sheetposition);
     //console.log('sheetList : ',sheetList[sheetposition]);
+
     var sheet = workbookHeaders.Sheets['' + sheetList[sheetposition] + '']
     for (let i = 1; i <= 10000; i++) {
         if (sheet['A' + i] !== null && (sheet['B' + i] == null || sheet['C' + i] == null)) {
