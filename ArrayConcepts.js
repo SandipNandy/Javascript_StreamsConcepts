@@ -26,7 +26,6 @@ console.log(marks);
 console.log(marks.length);
 marks.push(65);
 //in 'marks' array it will add the number at end side
-
 console.log(marks);
 
 console.log(marks.length);
