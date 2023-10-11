@@ -23,7 +23,6 @@ console.log(subMarks);
 console.log(marks[6]);
 marks[0]=85;
 console.log(marks);
-
 console.log(marks.length);
 
 marks.push(65);
