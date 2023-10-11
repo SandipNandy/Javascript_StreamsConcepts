@@ -19,7 +19,6 @@ var marks=[20,30,40,45,60,70,80,95];
 //here we want to print 60,70,80 so 60->4th position,70->5th position,80->6th position so in slice we
 //need to give 4, ((the element's position upto which you want to print -->6)+1) => 7
 var subMarks=marks.slice(4,7);
-
 console.log(subMarks);
 
 console.log(marks[6]);
