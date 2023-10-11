@@ -12,6 +12,7 @@ console.log(person.InbuildFunction(5,6));
 person.LastName='Nandy'
 
 person.gender='Male'
+
 console.log(person.FirstName);
 console.log(person.LastName);
 
