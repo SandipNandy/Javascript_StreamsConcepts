@@ -11,4 +11,5 @@ console.log(fruits);
 let numbers=[87,65,32,90,62,73,12,76];
 
 numbers.sort((a,b)=>a-b);
+
 console.log(numbers);
