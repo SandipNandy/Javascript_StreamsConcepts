@@ -11,6 +11,7 @@ fs.unlink(pathToFile, function(err) {
   if (err) {
     
     throw err
+    
   } else {
     
     console.log("Successfully deleted the file.")
