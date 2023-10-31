@@ -53,7 +53,6 @@ console.log('Sum Value : ',sum);
 
 var total=NewArray.reduce((sumArray,totalArray)=>sumArray+totalArray);
 console.log('Total Value : ',total);
-
 //we want to print all even numbers from the below array into new array 
 var newArray1=[];
 var ArrayElement=[12,16,17,31,36,19,42,29];
