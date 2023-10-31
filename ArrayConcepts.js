@@ -38,7 +38,6 @@ console.log(marks.indexOf(95));
 //otherwise false
 console.log(marks.includes(10));
 console.log(marks.includes(80));
-
 var NewArray=[89,91,97,99];
 var sum=0;
 for(let i=0;i<NewArray.length;i++){
