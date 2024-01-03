@@ -5,7 +5,6 @@ const fileNames = fs.readdirSync(dirPath);
 console.log(fileNames);
 const ExcelFileName=fileNames.filter(elem=> elem.match(filetype));
 const pathToFile = "./"+ExcelFileName+"";
-
 fs.unlink(pathToFile, function(err) {
   
   if (err) {
