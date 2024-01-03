@@ -55,6 +55,7 @@ for(let i=0;i<NewArray.length;i++){
 }
 console.log('Sum Value : ',sum); 
 //Now the above sum of array can make with in one line by using 'reduce' in built function , it will
+
 //optimize the line of code into 1 single line , It can accept upto 4 arguments
 //here 'sumArray' will behave like 'sum' and its value will be 0 always at starting, now totalArray will
 //indicate each element of 'NewArray' like 'NewArray[i]'
