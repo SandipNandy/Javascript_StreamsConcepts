@@ -6,7 +6,6 @@ let person={
     InbuildFunction: function(A,B){
          
        console.log(A+B);
-         
        console.log(this.FirstName+this.LastName);
     }
     
